@@ -8,7 +8,7 @@
 ### Some info about me: :page_with_curl:
 - 🔭 I’m currently working on **Software Developement** (Mobile App :vibration_mode: and Web App )
 - 🌱 I'm currently enrolled at **Connecticut College** :dromedary_camel:
-- :star: I’m looking for collaborations on ****
+- :star: I’m looking for work/projects on **Server-side**
 - 🤔 I’m looking for help with **Software Engineering and Data Science**
 - 💬 Ask me about: **How to stay single** :eyes:
 - 😄 Pronouns: He,him, his
