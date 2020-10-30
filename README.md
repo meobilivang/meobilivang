@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**meobilivang/meobilivang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub Profile! Feel free to take a look around :smile:
 
-Here are some ideas to get you started:
+## I'm Phong Nguyen. You can call me Julian :satisfied:
+### Or meobilivang :smiley_cat: if that sounds more familiar 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some info about me: :page_with_curl:
+- 🔭 I’m currently working on **Software Developement** (Mobile App :vibration_mode: and Web App )
+- 🌱 I'm currently enrolled at **Connecticut College** :dromedary_camel:
+- :star: I’m looking for collaborations on ****
+- 🤔 I’m looking for help with **Software Engineering and Data Science**
+- 💬 Ask me about: **How to stay single** :eyes:
+- 😄 Pronouns: He,him, his
+- ⚡ Fun fact: 
+    - I'm on a Personal Leave due to COVID-19 :high_brightness:
+    - I'm really into Analog Photography :camera:
+
+## Don't forget to check out mah website for more details ! :point_right: [Click here](https://meobilivang.github.io/) :sweat_drops: :sweat_drops:
