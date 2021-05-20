@@ -6,7 +6,7 @@
 ### Or meobilivang :smiley_cat: if that sounds more familiar 
 
 ### Some info about me: :page_with_curl:
-- 🔭 I’m currently working on **Cloud Computing** :cloud: & *Infrastructure* :desktop_computer:
+- 🔭 I’m currently working on **Cloud Computing** :cloud: & **Infrastructure** :desktop_computer:
 - 🌱 I'm currently enrolled at **Connecticut College** :dromedary_camel:
 - :star: I’m looking for work/projects on **Server-side** & **DevOps**
 - 🤔 I’m looking for help with **Software Engineering & Data Science**
