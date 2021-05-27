@@ -11,7 +11,7 @@
 - 😄 Pronouns: He,him, his
 
 ## 🚀 Feel free to hit me at:
-  - [Personal Site](https://meobilivang.github.io/)
+  - Personal Site: https://julianpnguyen.com/
   - Email: phongnguyen01.work@gmail.com
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=meobilivang&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true" alt="meobilivang" />
