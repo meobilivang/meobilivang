@@ -1,6 +1,6 @@
-### Hi there, 👋
+### 👋 Hi there,
 
-## Glad you make it here! Have take a look around :smile:
+## Glad you make it here! Have a look around :smile:
 
 ## I'm Julian (Phong) Nguyen :smiley_cat:
 
