@@ -10,8 +10,8 @@
 - 💬 Ask me about: **How to stay single** :eyes:
 - 😄 Pronouns: He,him, his
 
-## :point_right: Feel free to hit me at:
-  - [Personal Site](https://meobilivang.github.io/) :sweat_drops: :sweat_drops:
-  - Email: [phongnguyen01.work@gmail.com]
+## 🚀 Feel free to hit me at:
+  - [Personal Site](https://meobilivang.github.io/)
+  - Email: phongnguyen01.work@gmail.com
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=meobilivang&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true" alt="meobilivang" />
