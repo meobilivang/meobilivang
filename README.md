@@ -15,4 +15,3 @@
   - **Email**: phongnguyen01.work@gmail.com
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=meobilivang&show_icons=true&count_private=true&theme=react&include_all_commits=true" alt="meobilivang" />
-<img widtg="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meobilivang&layout=compact&theme=react" />
