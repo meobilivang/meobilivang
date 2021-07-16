@@ -7,7 +7,6 @@
 ### :page_with_curl: Basic me:
 - 🔭 Working on **Cloud Computing** :cloud: & **Infrastructure** :desktop_computer:
 - 🌱 Enrolled at **Connecticut College**, class of 2024 :dromedary_camel:
-- 💬 Ask me about: **How to stay single** :eyes:
 - 😄 Pronouns: He,him, his
 
 ## 🚀 Feel free to hit me at:
