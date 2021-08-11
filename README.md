@@ -7,7 +7,7 @@
 * :star: Worked in **Viettel Network**, & **Viettel IDC** as Intern during my gap year.
 * 🎓 Enrolled at **Connecticut College**, class of 2024 :dromedary_camel:
 * 😄 Pronouns: He,him, his
-* :monocle_face: Loves cooking & playing guitar in my free time. Watching <i>"F.R.I.E.N.D.S"</i> right now.
+* :monocle_face: Enjoy cooking & playing guitar :guitar: in my free time. Watching <i>"F.R.I.E.N.D.S"</i> 🌟 right now.
   
 <h2 align="center">:hammer_and_wrench: Technologies</h2>  
 
