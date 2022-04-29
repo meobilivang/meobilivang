@@ -3,11 +3,12 @@
 <h3 align="center"> I'm Julian (Phong) Nguyen :smiley_cat:
 
 ### :interrobang: Let's get to know me
+* 👷 Incoming Production Engineering/SRE Intern at **@Shopify**
 * 🔭 Exploring **Cloud Computing** :cloud: & **Infrastructure** :desktop_computer:
 * :star: Worked in **Viettel Network**, & **Viettel IDC** as Intern during my gap year.
 * 🎓 Enrolled at **Connecticut College**, class of 2024 :dromedary_camel:
 * 😄 Pronouns: He,him, his
-* :monocle_face: Enjoy cooking & playing guitar :guitar: in my free time. Watching <i>"F.R.I.E.N.D.S"</i> 🌟 right now.
+* :monocle_face: Enjoy cooking & playing guitar :guitar: in my free time. Watching <i>Brooklyn 9️9</i> 👮.
 <br />
 <h3 align="center">⚡ Technologies</h2>  
 
