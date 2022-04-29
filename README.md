@@ -3,7 +3,7 @@
 <h3 align="center"> I'm Julian (Phong) Nguyen :smiley_cat:
 
 ### :interrobang: Let's get to know me
-* 👷 Incoming Production Engineering/SRE Intern at **@Shopify**
+* 👷 Incoming **Production Engineering/SRE Intern** at **@Shopify**
 * 🔭 Exploring **Cloud Computing** :cloud: & **Infrastructure** :desktop_computer:
 * :star: Worked in **Viettel Network**, & **Viettel IDC** as Intern during my gap year.
 * 🎓 Enrolled at **Connecticut College**, class of 2024 :dromedary_camel:
