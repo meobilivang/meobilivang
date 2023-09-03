@@ -5,7 +5,6 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://julianpnguyen.com/)
 
 :point_right: Learn more about **Phong**
-* 👷 Current **Production Engineer Intern** at **@Shopify** :gift:
 * 🔭 Exploring **Cloud Computing** :cloud: (yup! I am an [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/8c8b3960-79d6-44dc-bfcd-47fa6091e73e/public_url)), Infrastructure stuffs :desktop_computer:
 * 🎓 Enrolled at **Connecticut College**, class of 2024 :dromedary_camel:
 * :collision: Part-time `Vim` person
